@@ -8,3 +8,5 @@ Machine Learning.
 ## Getting Started
 To get started with this project, clone the repository and
 navigate to the `python-for-ml` folder.
+## Python Scripts
+ `python-for-ml/Name.py`: Example script that prints Name
